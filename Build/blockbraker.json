@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "blockbraker.data.unityweb",
+"asmCodeUrl": "blockbraker.asm.code.unityweb",
+"asmMemoryUrl": "blockbraker.asm.memory.unityweb",
+"asmFrameworkUrl": "blockbraker.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
